@@ -1,7 +1,7 @@
 
 #include <Dynamixel2Arduino.h> //Used for controlling the dynamixel servos
 
-  #define PERIOD 100000  // period in us
+  #define PERIOD 100000  // period in micro seconds(us)
   
   #define  NEW_PROPORTIONAL_GAIN  950  // new P gain to be used by dynamixel
 
